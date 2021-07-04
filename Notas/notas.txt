@@ -23,3 +23,9 @@ Y dentro del HTML entre las etiquetas style igual.
 En el caso de hacer desktop first ir primero por los tamaños más grandes
 
 1024px / 768px / 480px / 320px
+
+    *** BEM (Block - Elements - Modifiers) ***
+
+Block: Header, Container, Menu, Checkbox, Imput
+Elements: Menu Item, List Item, Checkbox Caption, Header Title.
+Modifiers: Disabled, Highlighted, Checked, Fixed, Size Big, Color Yellow.
