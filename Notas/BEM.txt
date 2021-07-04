@@ -1,0 +1,5 @@
+BEM (Block - Elements - Modifiers)
+
+Block: Header, Container, Menu, Checkbox, Imput
+Elements: Menu Item, List Item, Checkbox Caption, Header Title.
+Modifiers: Disabled, Highlighted, Checked, Fixed, Size Big, Color Yellow.
