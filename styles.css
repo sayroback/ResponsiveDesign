@@ -74,7 +74,7 @@ header img {
 }
 
 .header--title-container .header--button {
-  position: absolute; /* Nos permite usar top down left right*/
+  position: absolute; /* Nos permite usar top bottom left right*/
   left: calc(50% - 115px);
   top: 270px;
   display: block;
@@ -99,4 +99,24 @@ header img {
   height: 8px;
   margin-left: 10px;
   background-image: url(assets/icon/arrow-menu.svg);
+}
+
+main {
+  width: 100%;
+  height: auto;
+  background-color: var(--off-white);
+}
+.main-exchange-container {
+  width: 100%;
+  height: auto;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.main-exchange-container--title {
+  width: 90%;
+  min-width: 288px;
+  max-width: 900px;
+  margin: 0 auto;
 }
