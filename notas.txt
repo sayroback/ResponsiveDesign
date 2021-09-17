@@ -1,14 +1,4 @@
-medidas relativas:
-
-porcentaje
-
-em
-Unidad relativa al tamaño de fuente especificada más cercana
-
-rem
-Unidad relativa al tamaño de fuente especificada en el ancestro mas lejano
-
-forma de agregar una condicion para llamar una hoja de estilos
+Forma de agregar una condicion para llamar una hoja de estilos
 <link rel="stylesheet" href="css/media.css" media="screen and (max-width:768px)"/>
 
 Dentro de CSS se declaran las condiciones:
@@ -29,3 +19,11 @@ En el caso de hacer desktop first ir primero por los tamaños más grandes
 Block: Header, Container, Menu, Checkbox, Imput
 Elements: Menu Item, List Item, Checkbox Caption, Header Title.
 Modifiers: Disabled, Highlighted, Checked, Fixed, Size Big, Color Yellow.
+
+1. Posicionamiento
+2. Modelo caja (Box model)
+3. Tipografia
+4. Visuales
+5. Otros
+
+    ***  ****
